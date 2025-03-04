@@ -1,0 +1,65 @@
+.cer {
+    background-color: rgb(71, 71, 70);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(40, 39, 39);
+    margin: 0;
+    padding: 0;
+}
+
+.rec {
+    background-color: rgb(71, 71, 70);
+    height: 3px;
+    width: 20px;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.cercle {
+    display: flex;
+    gap: 2px;
+}
+
+.s1 {
+    margin-top: 3px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(40, 39, 39);
+}
+
+.recta {
+    height: 180px;
+    width: 260px;
+    background-color: rgb(71, 71, 70);
+    border-radius: 6px;
+}
+
+.rer1 {
+    background-color: rgb(71, 71, 70);
+    height: 20px;
+    width: 200px;
+    margin-top: 4px;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.rer2 {
+    background-color: rgb(71, 71, 70);
+    height: 70%;
+    width: rer1;
+}
+
+.s2 {
+    display: flex;
+    margin-left: 100px;
+}
+
+.col {}
